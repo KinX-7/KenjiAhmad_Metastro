@@ -2,7 +2,9 @@ APLIKASI PERPUSTAKAAN ADMIN DAN PETUGAS MENGGUNAKAN VISUAL BASIC.NET DAN SQL SER
 ![Screenshot (147)](https://github.com/user-attachments/assets/ea6c8516-f013-4f21-b190-c4bb22cad7a4)
   Library Management System (LMS) adalah aplikasi perpustakaan berbasis desktop yang dirancang menggunakan VB.NET sebagai bahasa pemrograman dan SQL Server sebagai basis data. Aplikasi ini memungkinkan pengelolaan perpustakaan secara efisien, mulai dari pengelolaan buku, anggota, hingga peminjaman dan pengembalian buku.
 Fitur-fitur:
-  ADMIN DAN PETUGAS
+
+ADMIN DAN PETUGAS
+  
   - Log in admin
   - Log in petugas
   - Data buku (CRUD)
@@ -11,7 +13,9 @@ Fitur-fitur:
   - Laporan pengembalian
   - Report menggunakan PrintDocument (tools bawaan vs com)
   - Log out
-  USER
+    
+USER
+
   - Log in user
   - Data diri (Update)
   - Data buku (Read)
